@@ -1,0 +1,3 @@
+#TUPLES ARE IMMUTABLE THAT IS THEY CANNOT BE EDITED
+numbers=(1,2,3)
+print(numbers[0])
